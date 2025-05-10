@@ -2,7 +2,7 @@
 
 ## Project Overview 
 
-**Project Title : Insurance Coverage Prediction Project**
+**Project Title : Insurance Coverage Prediction Project**:
  The goal of this machine learning project is to develop a predictive model that focuses on analyzing data related to insurance coverage, aiming to predict or explore trends in individuals purchasing insurance. 
 
 ## Objectives
